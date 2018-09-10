@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2018-09-07 22:54:11
+Update time:  2018-09-10 20:37:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **15   /   847** problems
+I have solved **15   /   851** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -252,7 +252,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |250|[count-univalue-subtrees](https://leetcode.com/problems/count-univalue-subtrees)|:lock:||Medium|
 |251|[flatten-2d-vector](https://leetcode.com/problems/flatten-2d-vector)|:lock:||Medium|
 |252|[meeting-rooms](https://leetcode.com/problems/meeting-rooms)|:lock:|[:memo:](https://leetcode.com/articles/meeting-rooms/)|Easy|
-|253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii)|:lock:||Medium|
+|253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii)|:lock:|[:memo:](https://leetcode.com/articles/meeting-rooms-ii/)|Medium|
 |254|[factor-combinations](https://leetcode.com/problems/factor-combinations)|:lock:||Medium|
 |255|[verify-preorder-sequence-in-binary-search-tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|:lock:||Medium|
 |256|[paint-house](https://leetcode.com/problems/paint-house)|:lock:||Easy|
@@ -863,3 +863,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
+|936|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
+|937|[online-stock-span](https://leetcode.com/problems/online-stock-span)||[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
+|938|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|Hard|
+|939|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|Hard|
