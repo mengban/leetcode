@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2018-09-10 20:37:19
+Update time:  2018-09-11 16:07:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **15   /   851** problems
+I have solved **16   /   851** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -48,7 +48,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
-|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|||Medium|
+|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python3](https://github.com/mengban/leetcode/blob/master/033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)||Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Python3](https://github.com/mengban/leetcode/blob/master/034-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Python3](https://github.com/mengban/leetcode/blob/master/035-search-insert-position/search-insert-position.py)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|||Medium|
@@ -111,7 +111,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|||Medium|
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)|||Medium|
-|96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|||Medium|
+|96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|||Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
@@ -153,7 +153,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)||[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
-|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|||Medium|
+|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
