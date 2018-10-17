@@ -317,7 +317,18 @@ class Leetcode:
                 self.base_url, limit, offset
             )
             resp = self.session.get(submissions_url, proxies=PROXIES)
+            '''modified by Johnnysun'''
+            count = 0
+            while resp.status_code != 200:
+                #print(submissions_url)
+                resp = self.session.get(submissions_url, proxies=PROXIES)
+                count = count+1
+                if count == 10:
+                    break
+            '''modified by Johnnysun'''
+            ''' src code
             assert resp.status_code == 200
+            '''
             data = resp.json()
             if 'has_next' not in data.keys():
                 raise Exception('Get submissions wrong, Check network\n')
