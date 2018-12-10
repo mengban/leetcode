@@ -310,25 +310,20 @@ class Leetcode:
     def load_submissions(self):
         """ load all submissions from leetcode """
         # set limit a big num
+        print('API load submissions request 2 seconds per request')
+        print('Please wait ...')
         limit = 20
         offset = 0
+        last_key = ''
         while True:
-            submissions_url = '{}/api/submissions/?format=json&limit={}&offset={}'.format(
-                self.base_url, limit, offset
+            print('try to load submissions from ', offset, ' to ', offset+limit)
+            submissions_url = '{}/api/submissions/?format=json&limit={}&offset={}&last_key={}'.format(
+                self.base_url, limit, offset, last_key
             )
+            
             resp = self.session.get(submissions_url, proxies=PROXIES)
-            '''modified by Johnnysun'''
-            count = 0
-            while resp.status_code != 200:
-                #print(submissions_url)
-                resp = self.session.get(submissions_url, proxies=PROXIES)
-                count = count+1
-                if count == 10:
-                    break
-            '''modified by Johnnysun'''
-            ''' src code
+            # print(submissions_url, ':', resp.status_code)
             assert resp.status_code == 200
-            '''
             data = resp.json()
             if 'has_next' not in data.keys():
                 raise Exception('Get submissions wrong, Check network\n')
@@ -336,6 +331,9 @@ class Leetcode:
             self.submissions += data['submissions_dump']
             if data['has_next']:
                 offset += limit
+                last_key = data['last_key']
+                # print('last_key:', last_key)
+                time.sleep(2.5)
             else:
                 break
 
