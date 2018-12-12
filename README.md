@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2018-12-10 10:01:55
+Update time:  2018-12-12 10:08:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **92   /   903** problems
+I have solved **95   /   903** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -76,9 +76,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Python3](https://github.com/mengban/leetcode/blob/master/058-length-of-last-word/length-of-last-word.py)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Python3](https://github.com/mengban/leetcode/blob/master/059-spiral-matrix-ii/spiral-matrix-ii.py)||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
-|61|[rotate-list](https://leetcode.com/problems/rotate-list)|||Medium|
-|62|[unique-paths](https://leetcode.com/problems/unique-paths)|||Medium|
-|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
+|61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Python3](https://github.com/mengban/leetcode/blob/master/061-rotate-list/rotate-list.py)||Medium|
+|62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python3](https://github.com/mengban/leetcode/blob/master/062-unique-paths/unique-paths.py)||Medium|
+|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Python3](https://github.com/mengban/leetcode/blob/master/063-unique-paths-ii/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/mengban/leetcode/blob/master/066-plus-one/plus-one.py)||Easy|
