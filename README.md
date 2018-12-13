@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2018-12-12 10:08:14
+Update time:  2018-12-13 10:20:49
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **95   /   903** problems
+I have solved **100   /   903** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -79,18 +79,18 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Python3](https://github.com/mengban/leetcode/blob/master/061-rotate-list/rotate-list.py)||Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Python3](https://github.com/mengban/leetcode/blob/master/062-unique-paths/unique-paths.py)||Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Python3](https://github.com/mengban/leetcode/blob/master/063-unique-paths-ii/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
-|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
+|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Python3](https://github.com/mengban/leetcode/blob/master/064-minimum-path-sum/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/mengban/leetcode/blob/master/066-plus-one/plus-one.py)||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/mengban/leetcode/blob/master/067-add-binary/add-binary.py)||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Python3](https://github.com/mengban/leetcode/blob/master/069-sqrtx/sqrtx.py)||Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python3](https://github.com/mengban/leetcode/blob/master/070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
-|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
-|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)|||Medium|
+|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Python3](https://github.com/mengban/leetcode/blob/master/073-set-matrix-zeroes/set-matrix-zeroes.py)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
+|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Python3](https://github.com/mengban/leetcode/blob/master/074-search-a-2d-matrix/search-a-2d-matrix.py)||Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Python3](https://github.com/mengban/leetcode/blob/master/075-sort-colors/sort-colors.py)||Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|||Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|||Medium|
@@ -113,7 +113,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
-|98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|||Medium|
+|98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)||[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Python3](https://github.com/mengban/leetcode/blob/master/100-same-tree/same-tree.py)||Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Python3](https://github.com/mengban/leetcode/blob/master/101-symmetric-tree/symmetric-tree.py)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
