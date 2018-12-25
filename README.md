@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2018-12-18 09:58:46
+Update time:  2018-12-25 17:59:40
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **108   /   907** problems
+I have solved **108   /   911** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -923,3 +923,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |998|[check-completeness-of-a-binary-tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/check-completeness-of-a-binary-tree/)|Medium|
 |999|[regions-cut-by-slashes](https://leetcode.com/problems/regions-cut-by-slashes)||[:memo:](https://leetcode.com/articles/regions-cut-by-slashes/)|Medium|
 |1000|[delete-columns-to-make-sorted-iii](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted-iii/)|Hard|
+|1001|[n-repeated-element-in-size-2n-array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)||[:memo:](https://leetcode.com/articles/n-repeated-element-in-size-2n-array/)|Easy|
+|1002|[maximum-width-ramp](https://leetcode.com/problems/maximum-width-ramp)||[:memo:](https://leetcode.com/articles/maximum-width-ramp/)|Medium|
+|1003|[minimum-area-rectangle-ii](https://leetcode.com/problems/minimum-area-rectangle-ii)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle-ii/)|Medium|
+|1004|[least-operators-to-express-number](https://leetcode.com/problems/least-operators-to-express-number)||[:memo:](https://leetcode.com/articles/least-operators-to-express-number/)|Hard|
