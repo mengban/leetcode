@@ -31,16 +31,10 @@ class Solution:
         :rtype: int
         """
         buy = 0
-        sell = 0
         profit = 0
-        for  i in range(len(prices)):
-            if prices[buy] > prices[i]:  
-                buy = i                  #  找最小的买价
-                sell = i                 # 买入之后就可以开始卖了
-            if prices[sell] < prices[i] : #  找最大的卖价
-                sell = i
-            if sell > buy:
-                profit = max(profit,prices[sell] - prices[buy])
-            #print(profit,buy,sell)
-        return profit       
+        for i in range(1,len(prices)):
+            profit = max(profit,prices[i] - prices[buy])
+            if prices[i]  < prices[buy]:
+                buy = i
+        return profit
         
