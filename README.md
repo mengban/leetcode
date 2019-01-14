@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python3
-Update time:  2019-01-10 09:48:44
+Update time:  2019-01-14 15:03:02
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **116   /   920** problems
+I have solved **117   /   924** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -48,10 +48,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)|[Python3](https://github.com/mengban/leetcode/blob/master/031-next-permutation/next-permutation.py)|[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
-|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python3](https://github.com/mengban/leetcode/blob/master/033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)||Medium|
+|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python3](https://github.com/mengban/leetcode/blob/master/033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Python3](https://github.com/mengban/leetcode/blob/master/034-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Python3](https://github.com/mengban/leetcode/blob/master/035-search-insert-position/search-insert-position.py)||Easy|
-|36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|||Medium|
+|36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|||Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Python3](https://github.com/mengban/leetcode/blob/master/039-combination-sum/combination-sum.py)||Medium|
@@ -162,7 +162,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python3](https://github.com/mengban/leetcode/blob/master/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Python3](https://github.com/mengban/leetcode/blob/master/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|||Hard|
-|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
+|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Python3](https://github.com/mengban/leetcode/blob/master/147-insertion-sort-list/insertion-sort-list.py)||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|||Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
@@ -936,3 +936,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|||Easy|
+|1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Easy|
+|1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
+|1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
+|1018|[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)||[:memo:](https://leetcode.com/articles/largest-perimeter-triangle/)|Easy|
