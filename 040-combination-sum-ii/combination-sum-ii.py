@@ -37,6 +37,9 @@
 
 '''
 前面的已经匹配过了 肯定不会再用了
+
+为什么还要去重呢？因为同一个数据会多次出现。
+
 '''
 class Solution:
     def combinationSum2(self, candidates, target):

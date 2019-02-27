@@ -18,6 +18,12 @@
 #
 
 
+'''update'''
+'''
+2019-2-26
+采用二分查找法
+降低时间复杂度
+'''
 class Solution:
     def searchRange(self, nums, target):
         """
@@ -25,6 +31,7 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
+        '''
         l = len(nums)
         if l ==0:
             return [-1,-1]
@@ -38,4 +45,34 @@ class Solution:
         if start > end:
             return [-1,-1]
         return [start,end]
+        '''
+
+        l = 0
+        r = len(nums) -1
+        if r<0:
+            return [-1,-1] 
+        pos = -1
+        start = 0
+        end = 0
+        while(r>=l):
+            #print('while')
+            mid = (l + r) // 2
+            if nums[mid] == target:
+                pos = mid
+                break
+            elif nums[mid] > target: ##   target mid
+                r = mid - 1
+            else:
+                l = mid + 1
+                
+        if pos == -1:
+            return [-1,-1]
+        else:
+            start = pos
+            end = pos
+            while start >=0 and nums[start] == target :
+                start -= 1
+            while end <=(len(nums)-1) and nums[end] == target:
+                end += 1
+        return [start+1,end-1]
         

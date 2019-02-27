@@ -45,6 +45,10 @@
 #
 
 
+'''
+2019-2-26
+:update algorithms!
+'''
 class Solution:
     def removeElement(self, nums, val):
         """
@@ -52,10 +56,20 @@ class Solution:
         :type val: int
         :rtype: int
         """
+        '''
         cnt = 0
         for _ in range(len(nums)):
             if nums[_-cnt] == val:
                 nums.pop(_-cnt)
                 cnt+=1
         return len(nums)
+        '''
+        index = 0
+        
+        for _ in nums:
+            if _ != val:
+                nums[index] = _
+                index += 1
+        return index 
+                
         
