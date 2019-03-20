@@ -37,5 +37,5 @@ class Solution:
         """
         if n <=0:
             return False
-        return 3**30%n == 0
+        return 205891132094649%n == 0
         
