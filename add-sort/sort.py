@@ -93,7 +93,7 @@ class Sort():
         return arr
 
 if __name__ == '__main__':
-    cnt = 100
+    cnt = 10000
     sort = Sort()
     arr = [random.randint(0,cnt) for x in range(cnt)]
     stime = time.time()
